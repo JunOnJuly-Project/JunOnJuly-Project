@@ -7,6 +7,5 @@
         src="http://mazandi.herokuapp.com/api?handle=wlgnstjd0717&theme=dark"
         width="400px"
         />
-</div>  
-
+</div>
 <hr/>
